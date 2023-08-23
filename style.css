@@ -1,0 +1,38 @@
+
+
+#cabecalho { 
+    color: rgb(192, 14, 74);
+}
+
+.conteudo {
+    color:black;
+    background-color:  rgb(251, 139, 176);
+    border: 2px pink solid;
+    padding: 10px;
+    margin: 10px;
+
+ }
+
+ .meuTema  {
+    color:black;
+    background-color:  rgb(195, 139, 251);
+    border: 2px pink solid;
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .temaEscolhido  {
+    color:black;
+    background-color:  rgb(96, 174, 198);
+    border: 2px pink solid;
+    padding: 10px;
+    margin: 10px;
+   }
+
+   .livros {
+    color:black;
+    background-color:  rgb(96, 174, 198);
+    border: 2px pink solid;
+    padding: 10px;
+    margin: 10px;
+   }
